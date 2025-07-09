@@ -1,0 +1,6 @@
+{
+  "Ads": ["doubleclick.net", "googlesyndication.com", "adnxs.com", "criteo.com"],
+  "Analytics": ["google-analytics.com", "analytics.google.com", "mixpanel.com"],
+  "CDN": ["cloudflare.com", "gstatic.com", "fonts.googleapis.com", "fonts.gstatic.com"],
+  "Social": ["facebook.net", "twitter.com", "linkedin.com"]
+}
