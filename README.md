@@ -50,8 +50,8 @@ Subscribe to **Privacy+** with more rules, features, and cloud updates.
 
 ## 📬 Contact
 
-📧 Email: `youremail@example.com`  
-🐦 Twitter: [@abhi3742](https://twitter.com/abhi3742)
+📧 Email: `abhishekranjan3742@gmail.com 
+
 
 ---
 
