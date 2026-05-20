@@ -55,6 +55,3 @@ Subscribe to **Privacy+** with more rules, features, and cloud updates.
 
 ---
 
-## 📄 License
-
-MIT License
